@@ -1,0 +1,20 @@
+.nav {
+position:related;
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  width:100%;
+  z-index: 1;
+  border-bottom:1px solid gray;
+  }
+
+.title{
+	font-weight:900;
+}
+
+pre{
+overflow:hidden;
+}
+
+.img{
+border-radius:10px;
+}
