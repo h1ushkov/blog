@@ -2,7 +2,7 @@
 title = 'Unveiling the Art of Blurs in Css a Comprehensive Guide to Design Elegance'
 date = 2024-01-23T12:23:34+02:00
 tags = ['css', 'WebDev', 'Design']
-featured_image = ""
+featured_image = "https://miro.medium.com/v2/resize:fit:556/1*0HHZXkD0JsbmkNN6uH-8Xw.png"
 +++
 
 Blurs in CSS have transcended from mere stylistic choices to integral design elements, providing depth, focus, and aesthetic finesse to web interfaces. This detailed guide navigates through the history, recommendations, examples, and design solutions surrounding CSS blurs, unveiling the secrets behind their visual appeal.
