@@ -1,5 +1,5 @@
 title = "Hlushkov Blog"
-baseURL = "https://h1ushkov.github.io/blog"
+baseURL = "/"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
