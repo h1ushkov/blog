@@ -5,5 +5,5 @@ featured_image = "https://www.es-karlsruhe.eu/wp-content/uploads/2020/08/Welcome
 tags = ['Welcome']
 +++
 
-## Welcome to my page. 
+### Welcome to my page. 
 This site powered by HUGO a static site generator written in Go.
