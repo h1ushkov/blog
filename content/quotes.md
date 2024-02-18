@@ -1,11 +1,10 @@
 ---
-title: Contact
+title: Quotes
 featured_image: ''
 omit_header_text: true
 description: We'd love to hear from you
 type: page
 menu: main
-
 ---
 
-[Telegram](https://h1ushkov.t.me)
+> Bla bla
