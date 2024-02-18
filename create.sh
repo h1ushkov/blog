@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Введите название поста: " post_name
+read -p "Input the post name" post_name
 
 # Проверка наличия каталога "posts", если его нет, создаем
 if [ ! -d "content/post" ]; then
@@ -10,5 +10,5 @@ fi
 # Создаем новый пост с использованием Hugo
 hugo new "content/post/${post_name}.md"
 
-echo "Пост создан: content/post/${post_name}.md"
+echo "Post created: content/post/${post_name}.md"
 
